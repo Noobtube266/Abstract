@@ -1,5 +1,5 @@
 # Abstract Notes
- KNOW YOUR VARIABLES
+    KNOW YOUR VARIABLES
 2 kinds of variables, primitive and reference
 Can be declared as objects (instance) or locally (within a method)
 Can be used as arguments(sent to a method by a calling code) and as a return type(sent back to caller of method)
